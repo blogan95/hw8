@@ -1,0 +1,29 @@
+﻿body {
+    align-content: center;
+    background-color: black;
+    border: 2px dashed #808080;
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 30px;
+    padding-bottom: 18px;
+}
+
+#msg {
+}
+
+#button{padding-bottom: 30px;
+
+}
+
+.one {
+    background-color: limegreen;
+}
+
+.two {
+    background-color: #ff0080;
+}
+
+.three {
+    background-color: aqua;
+}
